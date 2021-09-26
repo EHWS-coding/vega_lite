@@ -27,7 +27,8 @@
         "color": {
           "field": "rainfall",
           "type": "quantitative",
-          "legend": {"type": "gradient"}
+          "legend": {"type": "gradient"},
+          "scale": {"scheme": "blues"}
         },
         "tooltip": [
           {
